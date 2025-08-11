@@ -1,73 +1,54 @@
 # Amira Adawy  
-### Senior Backend Engineer | .NET Architect | Cloud Solutions Expert
+### Backend .NET Developer | API Specialist | Problem Solver  
 
 <div align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
 </div>
 
 ---
 
-## 💻 Core Competencies
+## 🛠️ Technical Skills  
 
-**Backend Engineering**  
-✔ Designed & deployed 50+ RESTful APIs handling 10K+ RPM  
-✔ Expert in distributed systems with microservices architecture  
-✔ Real-time data processing (SignalR, WebSockets, Kafka)  
+**Backend Development**  
+- ASP.NET Core, Entity Framework, RESTful APIs  
+- Microservices, SignalR (real-time systems)  
+- C#, LINQ, Dependency Injection  
 
-**Cloud & DevOps**  
-✔ Azure Certified: App Services, Functions, Kubernetes  
-✔ Infrastructure-as-Code (Terraform, Bicep)  
-✔ CI/CD pipelines with GitHub Actions & Azure DevOps  
+**Databases & Performance**  
+- SQL Server: Query optimization, stored procedures  
+- Redis caching, EF Core performance tuning  
 
-**Database Optimization**  
-✔ SQL Server performance tuning (query optimization, indexing)  
-✔ NoSQL solutions with Redis for high-throughput systems  
-✔ Data migration strategies (ETL pipelines)  
+**Tools & DevOps**  
+- Docker, Azure App Services  
+- Git, Postman, Swagger  
 
 ---
 
-## 🏆 Professional Journey
+## 💼 Professional Experience  
 
-### Backend Engineer @ Ministry of Military Production (Internship)  
-**Key Achievements:**  
-- Architected scalable .NET Core APIs improving system throughput by 65%  
-- Automated mission-critical reports saving 200+ hours/year  
-- Mentored junior developers in clean code practices  
-
-### Technical Leadership  
-- Led cross-functional teams in Agile environments  
-- Conducted system architecture reviews for Fortune 500 clients  
-- Speaker at .NET Egypt Meetups (2023-present)  
+### Web Development Intern  
+**Ministry of Military Production** | Cairo, Egypt  
+- Built scalable CRUD APIs with .NET Core and EF Core  
+- Optimized 15+ SQL stored procedures → **40% faster queries**  
+- Automated reports using JavaScript → **50% less manual work**  
 
 ---
 
-## 🛠️ Technical Arsenal
-
-| Category       | Technologies                          |
-|----------------|---------------------------------------|
-| **Languages**  | C#, SQL, JavaScript, Python          |
-| **Frameworks** | .NET 6+, Entity Framework, Dapper     |
-| **Cloud**      | Azure, AWS Lambda, Serverless         |
-| **DevOps**     | Docker, Kubernetes, Terraform         |
-| **Data**       | SQL Server, Redis, CosmosDB           |
+## 🏆 What I Bring to Your Team  
+✅ **Clean Code Advocate**: SOLID principles, DRY code  
+✅ **Problem Solver**: Debug complex API/database issues  
+✅ **Team Player**: Collaborate with frontend/devops teams  
+✅ **Fast Learner**: Adapt to new tech stacks quickly  
 
 ---
 
-## 📈 Metrics That Matter
-- **99.95% API uptime** for enterprise systems  
-- **40% faster queries** via stored procedure optimization  
-- **50% cost reduction** through Azure resource optimization  
-
----
-
-## 📬 Let's Build the Future Together
+## 📬 Let's Connect!  
 - 📧 **Email:** [miraadawy98@gmail.com](mailto:Amiraadawy98@gmail.com)  
-- 💼 **LinkedIn:** [www.linkedin.com/in/amira-adawy-289300244](#) *(Let's connect!)*  
-- 🌐 **Portfolio:** [yourwebsite.com](#)  
+- 🌍 **Location:** Cairo, Egypt  
+- 🔗 **LinkedIn:** [Your Profile Link](#) *(Let's chat!)*  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amiraadawy&label=Profile%20Views&color=blueviolet" alt="Profile Views"/>
+  <sub>Passionate about building efficient backend systems!</sub>
 </div>
