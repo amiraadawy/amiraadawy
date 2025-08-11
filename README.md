@@ -1,54 +1,55 @@
-# Amira Adawy  
-### Backend .NET Developer | API Specialist | Problem Solver  
+# 💼 Amira Adawy  
+#### 🛠️ Junior .NET Developer | ASP.NET Core Specialist | Full-Stack Enthusiast  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </div>
 
 ---
 
-## 🛠️ Technical Skills  
+## 🔧 Technical Stack  
 
-**Backend Development**  
-- ASP.NET Core, Entity Framework, RESTful APIs  
-- Microservices, SignalR (real-time systems)  
-- C#, LINQ, Dependency Injection  
+### 🌐 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Databases & Performance**  
-- SQL Server: Query optimization, stored procedures  
-- Redis caching, EF Core performance tuning  
+### ⚙️ Backend Development  
+- ASP.NET Core | C# | Entity Framework Core  
+- RESTful APIs | LINQ | Dependency Injection  
 
-**Tools & DevOps**  
-- Docker, Azure App Services  
-- Git, Postman, Swagger  
+### 🗄️ Databases  
+- SQL Server | MySQL | Database Design  
 
----
-
-## 💼 Professional Experience  
-
-### Web Development Intern  
-**Ministry of Military Production** | Cairo, Egypt  
-- Built scalable CRUD APIs with .NET Core and EF Core  
-- Optimized 15+ SQL stored procedures → **40% faster queries**  
-- Automated reports using JavaScript → **50% less manual work**  
+### 🛠️ Tools  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## 🏆 What I Bring to Your Team  
-✅ **Clean Code Advocate**: SOLID principles, DRY code  
-✅ **Problem Solver**: Debug complex API/database issues  
-✅ **Team Player**: Collaborate with frontend/devops teams  
-✅ **Fast Learner**: Adapt to new tech stacks quickly  
+## 🚀 Currently Learning  
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ---
 
-## 📬 Let's Connect!  
-- 📧 **Email:** [miraadawy98@gmail.com](mailto:Amiraadawy98@gmail.com)  
-- 🌍 **Location:** Cairo, Egypt  
-- 🔗 **LinkedIn:** [Your Profile Link](#) *(Let's chat!)*  
+## 📊 GitHub Stats  
+![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/amira-adawy-289300244)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:miraadawy98@gmail.com)
 
 <div align="center">
-  <sub>Passionate about building efficient backend systems!</sub>
+  <sub>✨ Passionate about clean code and building efficient solutions!</sub>
 </div>
