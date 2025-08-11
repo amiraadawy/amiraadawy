@@ -39,12 +39,12 @@
 
 ---
 
-//## 📊 GitHub Stats  
+<!--//## 📊 GitHub Stats  
 //![Amira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 //![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-//---
+//--- -->
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/amira-adawy-289300244)
